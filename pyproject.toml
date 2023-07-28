@@ -2,7 +2,7 @@
 name = "atwiget"
 version = "0.1.0"
 description = ""
-authors = ["Shchepelkov Viacheslav <eldigor@yandex.ru>"]
+authors = ["Viacheslav Shchepelkov <eldigor@yandex.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
